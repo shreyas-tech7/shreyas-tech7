@@ -14,16 +14,6 @@ I direct Claude Code and other AI agents end to end and own the architecture, se
 
 ---
 
-## About
-
-I'm Shreyas, a high school student in DFW. I work as a PM and orchestrator more than a line-by-line coder. I direct Claude Code and other AI agents to build, harden, and ship real software, and I own the architecture, security, and product calls.
-
-I care most about defensive security: static analysis, vulnerability research, and red-teaming against known benchmarks. I also build AI tooling and systems software in Rust, and I am learning toward OSCP.
-
-Everything here is real and working. Some repos are public and some are still private while the work matures.
-
----
-
 ## Tech Stack
 
 **Languages**
@@ -129,10 +119,6 @@ A community prompt-discovery platform where users save, organize, and upvote AI 
 |---|---|---|
 | [Prept](https://github.com/shreyas-tech7/Prept) | AI interview coach. Speak answers aloud through the Web Speech API and get scored coaching from Gemini. | [Live demo](https://prept-red-nine.vercel.app) |
 | [Keystone](https://github.com/shreyas-tech7/keystone) | Calm daily workspace for tasks, notes, habits, and focus, built with Next.js and Supabase. | Repo only |
-| ClearCents | Financial literacy app. | Not public |
-| Signal | Focus and productivity app. | Not public |
-| Iron Log | Gym tracker. | Not public |
-| Road Ready TX | Texas driver's permit exam trainer. | Not public |
 
 ---
 
